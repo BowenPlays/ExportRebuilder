@@ -1,0 +1,7 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/.idea.ExportRebuilder/.idea/encodings.xml
+.idea/.idea.ExportRebuilder/.idea/indexLayout.xml
